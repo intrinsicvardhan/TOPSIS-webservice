@@ -1,0 +1,4 @@
+pandas >= 0.16.2
+numpy >= 1.9.2
+flask >= 0.10.1
+Flask-Mail>=0.9.1
